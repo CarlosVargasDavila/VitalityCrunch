@@ -236,7 +236,7 @@ td, th {
 
 @media(min-width: 1200px){
 	.banner-area{
-		padding-top: 5%;
+		padding-top: 8%;
 	}
 }
 
@@ -2289,7 +2289,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(../img/header-bg.jpg) center;
+  background: url(../img/imagen-fondo.jpeg) center;
   background-size: cover;
 }
 
@@ -2301,7 +2301,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 768px) {
   .banner-area {
-    background: url(../img/header-bg.jpg);
+    background: url(../img/imagen-fondo.jpeg);
     background-position: 50% 90% 50% 50%;
   }
 }
@@ -2452,6 +2452,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .gallery-area img {
   margin-bottom: 30px;
   width: 100%;
+  height: 200px;
 }
 
 .review-area {
